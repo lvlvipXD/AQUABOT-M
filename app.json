@@ -10,7 +10,7 @@
      "env": {
             "AQUA_SESSION": {
             "description":
-             "value":"AQUA=h5oHQaQA#Lsbq1fZqNgfbbHb88nqvv888LwoMNsFgTAclfStawnQ",
+             "value":"AQUA=p84SySzZ#hxvqkf2rxJg4-2KqgwPu8m4GFzSgLqW9a3IGw_XyrPM",
             "required": true
              },
             "NO_ONLINE": {
@@ -39,12 +39,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "Senpai" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "212636249972" ,
             "required": true
              },
        
